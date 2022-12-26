@@ -1,0 +1,33 @@
+/* carousel style  */
+
+.panda-bg-info {
+    background-color: #fceae8;
+    margin-top: 130px;
+    border-radius: 20px;
+}
+
+.panda-button {
+    color: white;
+    background-color: #ff1b74;
+}
+
+.panda-button:hover {
+    background-color: #ff1b74;
+}
+
+h1.price {
+    color: #ff1b74;
+}
+
+/* catagories  */
+.bg-watch {
+    background-color: #ffa500;
+}
+
+.bg-bags {
+    background-color: #da70d6;
+}
+
+.bg-shoes {
+    background-color: #0000ff;
+}
